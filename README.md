@@ -86,3 +86,8 @@ SELECT first_name, last_name        -- clause
 ## Ask for data with SELECT
 
 - The `SELECT` keyword tells the database we want some information returned to us. 
+
+## Narrow down a query with WHERE
+
+- The `WHERE` keyword lets us add selection criteria to a statement
+
