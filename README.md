@@ -95,3 +95,12 @@ SELECT first_name, last_name        -- clause
 
 Be ware of syntax and make good use of `()`
 
+# Boradenging and limiting responses
+
+## LIKE '%..'
+
+Return results that match part of a string. The `%` character represents the portion of the string to ignore.
+
+## LIMIT n
+
+Stop returning results after n results have been returned.
