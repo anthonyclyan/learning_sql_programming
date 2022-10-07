@@ -91,3 +91,7 @@ SELECT first_name, last_name        -- clause
 
 - The `WHERE` keyword lets us add selection criteria to a statement
 
+# Adding more criteria to a statement
+
+Be ware of syntax and make good use of `()`
+
